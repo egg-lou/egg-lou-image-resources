@@ -1,0 +1,1 @@
+# egg-lou-image-resources
